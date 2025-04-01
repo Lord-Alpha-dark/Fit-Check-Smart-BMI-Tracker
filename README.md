@@ -11,17 +11,19 @@ FitCheck+ is an Android application designed to help users calculate their Body 
 ✅ Supports both Light and Dark mode
 ✅ Simple, intuitive, and user-friendly interface
 
-## Screenshots
-
 ### Home Screen
 
-![Home Screen](Screenshots/home.jpg)
-![Home Screen 2](screenshots/home2.jpg)  
+<div style="display: flex; justify-content: space-around;">
+  <img src="Screenshots/home.jpg" alt="Home Screen" width="300"/>
+  <img src="screenshots/home2.jpg" alt="Home Screen 2" width="300"/>
+</div>
 
 ### Result Screen
 
-![Result Screen](Screenshots/result.jpg)
-![Result Screen 2](screenshots/result2.jpg)
+<div style="display: flex; justify-content: space-around;">
+  <img src="Screenshots/result.jpg" alt="Result Screen" width="300"/>
+  <img src="screenshots/result2.jpg" alt="Result Screen 2" width="300"/>
+</div>
 
 ## Getting Started
 

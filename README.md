@@ -6,10 +6,10 @@ FitCheck+ is an Android application designed to help users calculate their Body 
 
 ## Features
 
-✅ Calculate BMI based on height and weight
-✅ Get recommendations based on BMI results
-✅ Supports both Light and Dark mode
-✅ Simple, intuitive, and user-friendly interface
+✅ Calculate BMI based on height and weight.  
+✅ Get recommendations based on BMI results.  
+✅ Supports both Light and Dark mode.  
+✅ Simple, intuitive, and user-friendly interface.    
 
 ### Home Screen
 

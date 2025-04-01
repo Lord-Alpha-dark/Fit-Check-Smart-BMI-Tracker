@@ -15,19 +15,39 @@ FitCheck+ is an Android application designed to help users calculate their Body 
 
 <div style="display: flex; justify-content: space-around;">
   <img src="Screenshots/home.jpg" alt="Home Screen" width="300"/>
-  <img src="screenshots/home2.jpg" alt="Home Screen 2" width="300"/>
+  <img src="Screenshots/home2.jpg" alt="Home Screen 2" width="300"/>
 </div>
 
 ### Result Screen
 
 <div style="display: flex; justify-content: space-around;">
   <img src="Screenshots/result.jpg" alt="Result Screen" width="300"/>
-  <img src="screenshots/result2.jpg" alt="Result Screen 2" width="300"/>
+  <img src="Screenshots/result2.jpg" alt="Result Screen 2" width="300"/>
 </div>
 
-## Getting Started
+## Technolgies Used
 
-1. Clone the repository
-2. Run `flutter pub get` to install dependencies
-3. Run `flutter run` to start the app
+ **Flutter**: Framework for building the cross-platform app.
+- **Dart**: Programming language used with Flutter.
+- **Get (^4.6.6)**: State management and navigation package.
+- **Syncfusion Flutter Sliders (^24.2.9)**: For the slider UI component.
+- **Percent Indicator (^4.2.3)**: For displaying progress or percentage indicators.
+
+## Installation & Setup
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/Lord-Alpha-dark/Fit-Check-Smart-BMI-Tracker.git
+
+1. **Install dependencies**:
+
+   ```bash
+    flutter pub get
+
+1. **Run the App**:
+
+   ```bash
+   flutter run
+
 
